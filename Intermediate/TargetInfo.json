@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Llanta_SIS457",
+			"Path": "..\\Source\\Llanta_SIS457.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Llanta_SIS457Editor",
+			"Path": "..\\Source\\Llanta_SIS457Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
